@@ -14,7 +14,7 @@
     <version>1.0-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>Digital Sales System</name>
+    <name>Digitized Sales System</name>
     <url>https://mrak.mybluemix.net</url>
 
     <licenses>
