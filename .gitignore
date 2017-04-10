@@ -52,4 +52,4 @@ Temporary Items
 /target/
 
 # properties files
-.properties
+*.properties
