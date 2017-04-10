@@ -1,0 +1,8 @@
+---
+applications:
+ - name: mrak
+   host: mrak
+   path: target/DSS.war
+   memory: 512M
+   instances: 1
+   buildpack: liberty-for-java_v3_7-20170118-2046
